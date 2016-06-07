@@ -1,2 +1,6 @@
+---
+spring:
+  profiles: default
 lucky-word: Irish
+---
 
